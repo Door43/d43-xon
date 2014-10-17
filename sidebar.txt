@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xon:home|Door43 (xon)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xon|d43-xon repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xon/archive/master.zip|d43-xon.zip]]
+
+**Recent Changes**
+{{changes>ns = xon}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xon|Ethnologue data]]
+
